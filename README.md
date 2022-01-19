@@ -12,5 +12,5 @@ For my implementation for graphql, I will have project folders that are comprise
 
 #### 🧃 Docs & Important links
 
-[Read GraphQL formal docs here!](https://graphql.org/learn/)
-[Here is a link to Graphene a python plugin](https://docs.graphene-python.org/en/latest/quickstart/#introduction)
+- [Read GraphQL formal docs here!](https://graphql.org/learn/)
+- [Here is a link to Graphene a python plugin](https://docs.graphene-python.org/en/latest/quickstart/#introduction)
